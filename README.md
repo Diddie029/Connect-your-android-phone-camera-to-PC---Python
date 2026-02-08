@@ -1,4 +1,5 @@
 Download and install IP Webcam application on your mobile phone.
+NB:
 
 
 Then make sure your PC and Phone both are connected to the same network. Open your IP Webcam application on your both, click "Start Server". This will open a camera on your Phone.
