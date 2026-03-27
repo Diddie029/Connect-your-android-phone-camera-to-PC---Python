@@ -1,6 +1,6 @@
 **NB:**
 
-Download and install IP Webcam application on your mobile phone. **MUST** --either android or IOS.
+```Download and install IP Webcam application on your mobile phone. **MUST** --either android or IOS.
 
 
 -Then make sure your PC and Phone both are connected to the same network, i.e WI-FI Ntework.
