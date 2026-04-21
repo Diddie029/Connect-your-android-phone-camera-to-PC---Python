@@ -1,4 +1,4 @@
-## Connect your phone camera t
+## Connect your phone camera to PC display monitor
 
 ### NB:
 
