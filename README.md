@@ -1,4 +1,4 @@
-# .py file
+# Connect your camera to PC
 
 ### NB:
 
