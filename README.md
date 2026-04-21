@@ -1,4 +1,4 @@
-# Connect your camera to PC
+## Connect your phone camera to PC
 
 ### NB:
 
